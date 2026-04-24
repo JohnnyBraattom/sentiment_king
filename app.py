@@ -60,7 +60,7 @@ Example:
 The prompt wording should match the wording in the CIM exports, except that the CIM exports contain the actual brand name instead of the placeholder.
 
 ### CIM aided brand sentiment export files
-Upload one or multiple CIM exports created for aided brand sentiment purposes.
+Upload one or multiple CIM exports created for aided brand sentiment purposes. These files should not be altered after exporting from CIM, instead just upload them as they are formatted when exported. 
 
 Each export must contain a `Results` sheet with these columns:
 
